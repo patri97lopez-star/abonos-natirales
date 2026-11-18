@@ -1,0 +1,6 @@
+{
+  "name": "Abonos Naturales Hnos. Aguado S.L.",
+  "description": "Fabricantes de abonos naturales, mantillos, sustratos profesionales, enmiendas orgánicas y áridos decorativos en Toledo con más de 40 años de experiencia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
